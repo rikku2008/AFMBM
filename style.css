@@ -1,6 +1,6 @@
 .nav-item:hover {
     background-color: rgba(0,0,0,.15);
-    transition: 1.0s;
+    transition: .6s;
     border-radius: 5px;
 }
 @media screen and (max-width :576px) {
