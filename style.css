@@ -1,11 +1,11 @@
 /* header */
-.nav-item:hover {
+.nav-link:hover {
     background-color: rgba(0,0,0,.15);
     transition: .6s;
     border-radius: 5px;
 }
 @media screen and (max-width :576px) {
-    .nav-item {
+    .nav-item>.nav-link {
         padding-left: 5px;
     }
 }
